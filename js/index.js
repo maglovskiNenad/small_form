@@ -86,14 +86,9 @@ btn_login.addEventListener("click", function () {
     email == true &&
     password == true
   ) {
-    console.log("radi");
-    // console.log(username_input.value);
-    // console.log(middlename_input.value);
-    // console.log(email_input.value);
-    // console.log(password_input.value);
+    console.log(username_input.value);
+    console.log(middlename_input.value);
+    console.log(email_input.value);
+    console.log(password_input.value);
   }
 });
-
-// btn_login.addEventListener("click", function () {
-//
-// });
